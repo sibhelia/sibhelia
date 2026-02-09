@@ -5,7 +5,7 @@
  -->
 ## 👋 Hello, I'm Sibel Akkurt
 
-**Computer Engineer | Software Developer & Machine Learning Enthusiast**
+**Software Developer & Machine Learning Enthusiast**
 
 As a Computer Engineer, I love both building robust systems and extracting meaning from data in the world of technology. While shaping my career by developing scalable backend architectures and enterprise ERP systems on the .NET ecosystem, I also focus on exploring the world of Data Science and Machine Learning, integrating these disciplines into modern software solutions. Backend and artificial intelligence are the two fundamental areas that constitute my work motivation.
 
