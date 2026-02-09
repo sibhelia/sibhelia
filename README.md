@@ -19,19 +19,24 @@ As a Computer Engineer, I love both building robust systems and extracting meani
 <!-- Languages and Tools -->
 <h3 align="left">🧠 Languages And Tools :</h3>
 <p>
- <a href="#"><img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?logo=c&logoColor=white"></a>
- <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white"></a>
  <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=csharp&logoColor=white"></a>
  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
+ <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=openjdk&logoColor=white"></a>
  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
  <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"></a>
  <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white"></a>
  <a href="#"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4.svg?logo=dotnet&logoColor=white"></a>
  <a href="#"><img alt="Entity Framework" src="https://img.shields.io/badge/Entity_Framework-512BD4.svg?logo=dotnet&logoColor=white"></a>
+ <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white"></a>
+ <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
+ <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
+ <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
+ <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white"></a>
  <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white"></a>
  <a href="#"><img alt="MSSQL" src="https://img.shields.io/badge/MS_SQL_Server-CC2927.svg?logo=microsoftsqlserver&logoColor=white"></a>
  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white"></a>
  <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white"></a>
+ <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black"></a>
  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
  <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white"></a>
@@ -41,6 +46,7 @@ As a Computer Engineer, I love both building robust systems and extracting meani
  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C.svg?logo=python&logoColor=white"></a>
  <a href="#"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-3776AB.svg?logo=python&logoColor=white"></a>
  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white"></a>
+ <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/Google_Colab-F9AB00.svg?logo=googlecolab&logoColor=white"></a>
  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -49,6 +55,8 @@ As a Computer Engineer, I love both building robust systems and extracting meani
  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
  <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
+ <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
+ <a href="#"><img alt="Twilio" src="https://img.shields.io/badge/Twilio-F22F46.svg?logo=twilio&logoColor=white"></a>
  <a href="#"><img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white"></a>
  <a href="#"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B.svg?logo=wordpress&logoColor=white"></a>
  <a href="#"><img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC.svg?logo=canva&logoColor=white"></a>
