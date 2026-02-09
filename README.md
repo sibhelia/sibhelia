@@ -76,21 +76,21 @@ href="https://alpinejs.dev"
 <!-- gif
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  -->
+---
 
-<!-- github stats  -->
 <div align="center">
-  <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sibhelia&theme=dark&show_icons=true&icon_color=fff&include_all_commits=false&count_private=true&layout=compact&border_radius=0" style="height:185px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibhelia&theme=dark&hide_border=false&icon_color=434d58&include_all_commits=false&count_private=true&layout=compact&border_radius=0" style="height:185px;">
-  </div>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sibhelia&show_icons=true&theme=radical" />
-  <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=sibhelia&theme=dark" alt="GitHub Streak" />
-  </a>
+
+## 📊 GitHub İstatistiklerim
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sibhelia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sibhelia&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sibhelia&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sibhelia&theme=tokyonight" />
+
 </div>
 
+---
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 [![Sibhelia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sibhelia&theme=merko&line=525DE9)](https://github.com/sibhelia/github-readme-activity-graph)
