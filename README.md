@@ -100,19 +100,35 @@ href="https://alpinejs.dev"
  -->
 
 
-<div align="center">
+<table border="1" bordercolor="white" cellpadding="0" cellspacing="0" width="100%" style="border: 1px solid white; border-collapse: collapse;">
+<tr>
 
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sibhelia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sibhelia&theme=tokyonight&hide_border=true" />
+<td width="33.33%" align="center" style="border: 1px solid white;">
 
-<!--<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sibhelia&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sibhelia&theme=tokyonight" /> -->
+<img src="https://github-readme-stats-virid-omega-87.vercel.app/api?username=sibhelia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=34" width="100%" />
 
-</div>
+</td>
 
+<td width="33.33%" align="center" style="border: 1px solid white;">
 
+<img src="https://streak-stats.demolab.com/?user=sibhelia&theme=tokyonight&hide_border=true&card_width=400" width="100%" />
+
+</td>
+
+<td width="33.33%" align="center" style="border: 1px solid white;">
+
+<img src="https://github-readme-stats-virid-omega-87.vercel.app/api/top-langs/?username=sibhelia&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&include_all_commits=true&count_private=true" width="100%" />
+
+</td>
+
+</tr>
+</table>
+
+<!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 [![Sibhelia's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sibhelia&theme=merko&line=525DE9)](https://github.com/sibhelia/github-readme-activity-graph)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+-->
 
