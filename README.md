@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Sibel Akkurt
+# Hi, I'm Sibel 👋
 
 ### Computer Engineer | AI & Full-Stack Developer
 
@@ -25,13 +25,12 @@ I build intelligent software systems by combining **AI, machine learning and mod
 
 ### What I Do
 
-* **AI & Machine Learning:** Develop intelligent applications using Python, Scikit-learn, PyTorch and TensorFlow.
-* **Computer Vision:** Work with image processing, computer vision and deep learning for classification, object detection and visual analysis.
-* **Generative AI & RAG:** Build LLM-powered systems using RAG, embeddings, vector databases, hybrid search, reranking, LangChain and LangGraph.
-* **Full-Stack Development:** Build end-to-end applications with React, JavaScript/TypeScript, C#, .NET, ASP.NET Core and Node.js.
-* **Backend Engineering:** Design REST APIs, business logic and maintainable architectures using .NET, ASP.NET Core and Entity Framework Core.
-* **Data & Databases:** Work with PostgreSQL, SQL Server, Qdrant, ChromaDB and Neo4j.
-* **Software Engineering:** Focus on clean code, modular architecture, maintainability and Git-based development workflows.
+* **AI & Machine Learning:** Build AI/ML applications with Python, Scikit-learn, PyTorch and TensorFlow.
+* **Generative AI:** Develop LLM, RAG and agentic systems using embeddings, vector databases, LangChain and LangGraph.
+* **Computer Vision:** Develop image processing and deep learning solutions for visual analysis and detection.
+* **Full-Stack Development:** Build end-to-end applications with React, Vue.js, JavaScript/TypeScript, C# and .NET.
+* **Backend Engineering:** Design REST APIs and backend architectures with ASP.NET Core, Entity Framework Core, Node.js and Express.js.
+* **Databases & Tools:** Work with PostgreSQL, SQL Server, Firebase, Qdrant, ChromaDB, Neo4j, Docker and Git.
 
 ### Languages & Tools
 
@@ -42,8 +41,13 @@ I build intelligent software systems by combining **AI, machine learning and mod
 <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white"></a>
 <a href="#"><img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4.svg?logo=dotnet&logoColor=white"></a>
 <a href="#"><img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4.svg?logo=dotnet&logoColor=white"></a>
+<a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
+<a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white"></a>
 <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
+<a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue.js&logoColor=white"></a>
+<a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
+<a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?logo=tailwindcss&logoColor=white"></a>
 <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"></a>
 <a href="#"><img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white"></a>
 <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
@@ -51,10 +55,15 @@ I build intelligent software systems by combining **AI, machine learning and mod
 <a href="#"><img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C.svg?logo=langchain&logoColor=white"></a>
 <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white"></a>
 <a href="#"><img alt="MS SQL Server" src="https://img.shields.io/badge/MS_SQL_Server-CC2927.svg?logo=microsoftsqlserver&logoColor=white"></a>
+<a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black"></a>
+<a href="#"><img alt="Qdrant" src="https://img.shields.io/badge/Qdrant-DC244C.svg?logo=qdrant&logoColor=white"></a>
+<a href="#"><img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FF6B35.svg"></a>
+<a href="#"><img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-4581C3.svg?logo=neo4j&logoColor=white"></a>
 <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white"></a>
 </p>
+
 
 ### Contact Me
 
@@ -78,7 +87,7 @@ I build intelligent software systems by combining **AI, machine learning and mod
 </td>
 
 <td width="33.33%" align="center" style="border: 1px solid white;">
-<img src="https://streak-stats.demolab.com/?user=sibhelia&theme=tokyonight&hide_border=true&card_width=400" width="100%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=sibhelia&theme=tokyonight&card_width=400" width="100%" />
 </td>
 
 <td width="33.33%" align="center" style="border: 1px solid white;">
